@@ -1,1 +1,1 @@
-# LCD-use-and-PWM-generation-with-dsPIC33FJ12MC201-microcontroller
+This code was used in my bachelor's degree thesis, as part of a DC-DC source, and the code's purpose was to display a measured voltage and a reference voltage and also to generate PWM signal as a back-up measure for a NE555 circuit. 
